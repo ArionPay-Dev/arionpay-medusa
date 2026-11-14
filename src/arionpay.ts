@@ -4,7 +4,7 @@
 import { createHmac, randomUUID, timingSafeEqual } from "node:crypto"
 
 export const DEFAULT_BASE_URL = "https://merchant.arionpay.com"
-export const VERSION = "1.0.0"
+export const VERSION = "1.0.1"
 
 export class ArionPayApiError extends Error {
   constructor(message: string, readonly status: number, readonly code: string = "") {

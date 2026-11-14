@@ -1,6 +1,6 @@
 {
   "name": "medusa-payment-arionpay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ArionPay crypto payments for Medusa 2: Bitcoin, USDT, Litecoin, Ethereum, TRON and more, paid straight to your own wallet.",
   "license": "MIT",
   "author": "ArionPay <info@arionpay.com>",
